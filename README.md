@@ -28,4 +28,4 @@ Just think of a 'Bubble'. How it behaves, or deforms.
 
 Fortnite uses it to show 'Hit' on breakable objects. [Ref](https://youtu.be/7Fl3so0Z5Tc).
 
-UPDATE [02:01:2024] : I later played the First "Guardians of the Galaxy" Game and saw this blob enemy, which seems like uses two levels of this technique. [Ref](https://oyster.ignimgs.com/mediawiki/apis.ign.com/guardians-of-the-galaxy-the-game/6/65/Ch3_%287%29.png?width=1280)
+UPDATE [02/01/2024] : I later played the First "Guardians of the Galaxy" Game and saw this blob enemy, which seems like uses two levels of this technique. [Ref](https://oyster.ignimgs.com/mediawiki/apis.ign.com/guardians-of-the-galaxy-the-game/6/65/Ch3_%287%29.png?width=1280)
