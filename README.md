@@ -1,2 +1,10 @@
-# Procedural-Shader-Animation
-Creating Procedurally Generated Animations using Shaders.
+# Procedural Shader Animation
+
+by Shreyash Bara
+
+Exploring Procedurally Generated Animations using Shaders.
+
+DISCLAIMER: It is
+
+# What It Can Do
+
