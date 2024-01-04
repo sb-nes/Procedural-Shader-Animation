@@ -12,6 +12,8 @@ I've made a White Blood Cell using this technique, built in Unreal Engine 4.27, 
 
 ![Example](./Example.png).
 
+![Example2](./Example2.gif).
+
 # Idea
 
 ![Block Diagram](./BlockDiagram.png).
