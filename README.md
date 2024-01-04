@@ -8,9 +8,10 @@ DISCLAIMER: It is
 
 # My Implementation
 
-I've made a White Blood Cell, built in Unreal Engine 4.27, which doesn't require any external tools/modifications to work.
+I've made a White Blood Cell using this technique, built in Unreal Engine 4.27, which doesn't require any external tools/modifications to work.
+
+![Example](./Example.png).
 
 # Idea
 
 ![Block Diagram](./BlockDiagram.png).
-
