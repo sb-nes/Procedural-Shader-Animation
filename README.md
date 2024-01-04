@@ -5,7 +5,8 @@ by Shreyash Bara
 Exploring Procedurally Generated Animations using Shaders.
 
 DISCLAIMER: It is a simple representation. Thus, it will have some errors as it has been made for my specific need. You are allowed to reference it, or use it if you want.
-*BOWs*
+
+** BOWs **
 
 # My Implementation
 
