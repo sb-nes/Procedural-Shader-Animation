@@ -24,7 +24,7 @@ If 'Water' and 'Tree' fake their movement in games using Vertex Displacement, th
 
 # Conclusion
 
-Just think of a 'Bubble'. How it behaves, or deforms.
+Just think of any liquid in microgravity conditions: how it behaves, or deforms.
 
 Fortnite uses it to show 'Hit' on breakable objects. [Ref](https://youtu.be/7Fl3so0Z5Tc).
 
